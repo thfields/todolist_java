@@ -12,7 +12,7 @@
 	<artifactId>todolist</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>todolist</name>
-	<description>Gerenciador de tarefas</description>
+	<description>Gerenciador_de_tarefas</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
